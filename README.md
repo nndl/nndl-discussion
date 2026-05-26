@@ -15,8 +15,8 @@
   - 第 2 版 / 通识版：[`nndl/nndl`](https://github.com/nndl/nndl)
   - 案例与实践：[`nndl/nndl-practice`](https://github.com/nndl/nndl-practice)
   - 大模型与智能体：[`nndl/llm-agent`](https://github.com/nndl/llm-agent)
-- **可视化资源**：https://nndl.github.io/viz/
-- **系列主站**：https://nndl.github.io
+- **可视化资源**：https://nndl.ai/viz/
+- **系列主站**：https://nndl.ai
 
 ## 第 1 版习题答案
 
