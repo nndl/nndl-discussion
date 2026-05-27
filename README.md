@@ -14,7 +14,7 @@
 - **某本书的勘误**：到对应书仓库提 Issue
   - 第 2 版 / 通识版：[`nndl/nndl`](https://github.com/nndl/nndl)
   - 案例与实践：[`nndl/nndl-practice`](https://github.com/nndl/nndl-practice)
-  - 大模型与智能体：[`nndl/llm-agent`](https://github.com/nndl/llm-agent)
+  - 大模型与智能体：[`nndl/llm-beginner`](https://github.com/nndl/llm-beginner)
 - **可视化资源**：https://nndl.ai/viz/
 - **系列主站**：https://nndl.ai
 
